@@ -1,10 +1,5 @@
-# metafour-starter
-A spring-boot application for metafour new comers.
-
-# Steps
-1. Project fork, clone in STS and run the project details: https://youtu.be/z_uFyKUPzsM
-2. Metafour ui details: http://netscreens.cust.m4.net/tomdemo/bootstrap/codeexamples.html
-3. Thymeleaf tutorial: http://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html
+# starter
+A spring-boot application for new comers.
 
 # Thymeleaf templating
 We have added a sample functional screen, resort. You can take flavour of thymeleaf templating in this screen.
